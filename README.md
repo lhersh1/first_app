@@ -1,3 +1,11 @@
+
+
+#Ruby on Rails Tutorial: first application
+
+
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
@@ -256,6 +264,4 @@ test
   directory.
 
 vendor
-  External libraries that the application depends on. Also includes the plugins
-  subdirectory. If the app has frozen rails, those gems also go here, under
-  vendor/rails/. This directory is in the load path.
+  External libraries that the applica
